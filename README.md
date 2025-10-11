@@ -36,8 +36,6 @@ As *features* utilizadas são:
 ## Resultados
 
 <div align="center">
-
-<div align="center">
     <img src="Resultados/resultado_municipio.png" width="600" alt="Resultado da previsão a nível municipal"/>
 </div>
 
