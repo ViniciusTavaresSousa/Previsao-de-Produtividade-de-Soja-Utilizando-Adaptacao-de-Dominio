@@ -36,9 +36,11 @@ As *features* utilizadas são:
 ## Resultados
 
 <div align="center">
-    <img src="Resultados/resultado_municipio.png" width="600" alt="Resultado da previsão a nível municipal"/>
+  **Este texto ficará em negrito**  
+  <img src="Resultados/resultado_municipio.png" width="600" alt="Resultado da previsão a nível municipal"/>
+  **Este texto ficará em negrito**
 </div>
-adfhgdzfg
+
 <p align="left">
 Os resultados obtidos em nível municipal indicaram um erro médio de aproximadamente 400 kg/ha entre o quantil mediano (𝑄50) previsto e a produtividade real observada. Esse valor sugere que o modelo apresentou boa capacidade de generalização e convergência durante o treinamento
 </p>
