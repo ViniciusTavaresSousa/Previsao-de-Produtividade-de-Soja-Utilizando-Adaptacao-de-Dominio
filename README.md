@@ -60,7 +60,7 @@ Esta figura mostra a <strong>sobreposição entre os dados municipais e de propr
 <p align="left">
 A figura final ilustra a <strong>distribuição dos espaços latentes a nível de propriedade</strong>, indicando que o modelo consegue capturar padrões relevantes em cada propriedade, mesmo sem rótulos diretos, fornecendo estimativas precisas para a agricultura de precisão.
 </p>
-
+</div>
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
