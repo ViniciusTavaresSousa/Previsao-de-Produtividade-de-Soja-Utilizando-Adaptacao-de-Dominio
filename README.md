@@ -12,6 +12,8 @@ Este projeto tem como objetivo desenvolver uma metodologia baseada em aprendizad
 
   <img src="Diagramas do Projeto/resumo_projeto.png" width="400" alt="Fluxograma geral do prjeto desenvolvido."/>
 
+<div align="left">
+
 ## Dataset
 
 O modelo é composto por dois conjuntos de dados: um em nível municipal e outro em nível de propriedade. As *features* foram extraídas por meio do Google Earth Engine (GEE), enquanto as informações de produtividade em escala municipal foram obtidas a partir do Instituto Brasileiro de Geografia e Estatística (IBGE). Além disso, o *MapBiomas* foi utilizado como máscara de uso e cobertura do solo, garantindo que as *features* fossem capturadas apenas em áreas efetivamente cultivadas com soja.
