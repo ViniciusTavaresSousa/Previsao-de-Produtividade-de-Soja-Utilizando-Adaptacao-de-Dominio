@@ -2,13 +2,13 @@
 
 # Previsão de Produtividade de Soja Utilizando Adaptação de Domínio
 
-----------
-
 <div align="left">
 
 ## Introdução
 
 Este projeto tem como objetivo desenvolver uma metodologia baseada em aprendizado profundo e adaptação de domínio para a previsão da produtividade da soja em propriedades rurais. A abordagem utiliza dados de sensoriamento remoto e variáveis climáticas para capturar padrões associados ao desenvolvimento da cultura, transferindo o conhecimento aprendido em escala municipal para o nível de propriedade. Dessa forma, busca-se superar a ausência de rótulos diretos em propriedades rurais e fornecer estimativas de produtividade precisas e aplicáveis à agricultura de precisão, contribuindo para o planejamento e a tomada de decisão no setor agrícola.
+
+<img src="resultados/visao_geral.png" width="400" alt="Bottle - Broken Large"/>
 
 ## Dataset
 
