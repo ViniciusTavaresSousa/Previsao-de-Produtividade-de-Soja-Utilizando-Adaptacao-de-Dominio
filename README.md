@@ -37,10 +37,9 @@ As *features* utilizadas são:
 
 <div align="center">
 
-<img src="resultados/bottle_broken_large.png" width="400" alt="Bottle - Broken Large"/>
-<img src="resultados/bottle_broken_small.png" width="400" alt="Bottle - Broken Small"/>
-<img src="resultados/bottle_contamination.png" width="400" alt="Bottle - Contamination"/>
-<img src="resultados/capsule_crack.png" width="400" alt="Capsule - Crack"/>
+<img src="Resultados/resultado_municipio.png" width="400" alt="Resultado da previsão a nível municipa"/>
+<img src="Resultados/resultado_propriedade.png" width="400" alt="Resultado da sobreposição entre os espaços latentes"/>
+<img src="Resultados/espacos_latentes.png" width="400" alt="Resultados a Nível de Propriedade"/>
 
 </div>
 
