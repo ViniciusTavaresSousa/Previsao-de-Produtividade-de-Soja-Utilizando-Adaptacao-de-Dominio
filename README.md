@@ -40,7 +40,7 @@ As *features* utilizadas são:
 </div>
 
 <p align="left">
-Os resultados obtidos em nível municipal indicaram um erro médio de aproximadamente 400 kg/ha entre o quantil mediano (𝑄50) previsto e a produtividade real observada. Esse valor sugere que o modelo apresentou boa capacidade de generalização e convergência durante o treinamento
+Os resultados obtidos em nível municipal indicaram um erro médio de aproximadamente 400 kg/ha entre o quantil mediano (𝑄50) previsto e a produtividade real observada. Esse valor sugere que o modelo apresentou boa capacidade de generalização e convergência durante o treinamento.
 </p>
 
 <p align="center"><strong>Resultado da sobreposição entre os espaços latentes</p>
