@@ -14,20 +14,20 @@ Este projeto tem como objetivo desenvolver uma metodologia baseada em aprendizad
 
 O modelo é composto por dois conjuntos de dados: um em nível municipal e outro em nível de propriedade. As *features* foram extraídas por meio do Google Earth Engine (GEE), enquanto as informações de produtividade em escala municipal foram obtidas a partir do Instituto Brasileiro de Geografia e Estatística (IBGE). Além disso, o *MapBiomas* foi utilizado como máscara de uso e cobertura do solo, garantindo que as *features* fossem capturadas apenas em áreas efetivamente cultivadas com soja.
 
-### *Features Utilizadas
+### *Features* Utilizadas
 
 As *features* utilizadas são:
 
-* `Normalized Difference Vegetation Index (NDVI)`  (índice espectral que indica a densi-
-dade e a saúde da vegetação na área estudada.)
-* `Normalized Difference Water Index (NDWI)`       (índice espectral relacionado ao con-
-teúdo de água na vegetação e no solo na área estudada.)
-* `Temperatura máxima`                             (média das temperaturas máximas registradas na área durante
-o período de estudo.)
-* `Temperatura mínima`                             (média das temperaturas mínimas registradas na área durante
-o período de estudo.)
+* `Normalized Difference Vegetation Index (NDVI)`  (índice espectral que indica a densidade e a saúde da vegetação na área estudada.)
+* `Normalized Difference Water Index (NDWI)`       (índice espectral relacionado ao conteúdo de água na vegetação e no solo na área estudada.)
+* `Temperatura máxima`                             (média das temperaturas máximas registradas na área duranto período de estudo.)
+* `Temperatura mínima`                             (média das temperaturas mínimas registradas na área duranto período de estudo.)
 * `Precipitação`                                   (quantidade média de precipitação registrada na área.)
 * `Radiação solar`                                 (quantidade de energia solar incidente sobre a área.)
+
+### Extração a Nível Municipal
+
+### Extração a Nível de Propriedade
 
 ## Resultados
 
