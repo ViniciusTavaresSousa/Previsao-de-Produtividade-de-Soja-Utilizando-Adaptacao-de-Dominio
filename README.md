@@ -6,7 +6,7 @@
 
 ## Introdução
 
-Este projeto tem como objetivo desenvolver uma metodologia baseada em aprendizado profundo e adaptação de domínio para a previsão da produtividade da soja em propriedades rurais. A abordagem utiliza dados de sensoriamento remoto e variáveis climáticas para capturar padrões associados ao desenvolvimento da cultura, transferindo o conhecimento aprendido em escala municipal para o nível de propriedade. Dessa forma, busca-se superar a ausência de rótulos diretos em propriedades rurais e fornecer estimativas de produtividade precisas e aplicáveis à agricultura de precisão, contribuindo para o planejamento e a tomada de decisão no setor agrícola.
+Este projeto tem como objetivo desenvolver uma metodologia baseada em aprendizado profundo e adaptação de domínio para a previsão da produtividade da soja em propriedades rurais. A abordagem utiliza dados de sensoriamento remoto e variáveis climáticas para capturar padrões associados ao desenvolvimento da cultura, transferindo o conhecimento aprendido em escala municipal para o nível de propriedade. O modelo é capaz de estimar intervalos de produtividade, fornecendo os quantis Q10, Q50 e Q90, nos quais Q10 representa o cenário pessimista, Q50 a mediana e Q90 o cenário otimista, permitindo avaliar a incerteza das previsões. Dessa forma, busca-se superar a ausência de rótulos diretos em propriedades rurais e fornecer estimativas precisas e aplicáveis à agricultura de precisão, contribuindo para o planejamento e a tomada de decisão no setor agrícola.
 
 <div align="center">
 
