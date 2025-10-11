@@ -29,10 +29,6 @@ As *features* utilizadas são:
 * `Precipitação`                                   (quantidade média de precipitação registrada na área.)
 * `Radiação solar`                                 (quantidade de energia solar incidente sobre a área.)
 
-### Extração a Nível Municipal
-
-### Extração a Nível de Propriedade
-
 ## Resultados
 <p align="center"><strong>Resultado da previsão a nível municipal</p>
 <div align="center">
