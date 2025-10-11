@@ -37,20 +37,29 @@ As *features* utilizadas são:
 
 <div align="center">
 
-## Resultados
-
-<img src="Resultados/resultado_municipio.png" width="600" alt="Resultado da previsão a nível municipal"/>
-
-A figura acima apresenta a **previsão de produtividade em nível municipal**, mostrando como os valores estimados se distribuem entre os diferentes municípios analisados. Esse resultado serve como base para a transferência de conhecimento para o nível de propriedades.
-
-<img src="Resultados/resultado_propriedade.png" width="600" alt="Resultado da sobreposição entre os espaços latentes"/>
-
-Esta figura mostra a **sobreposição entre os dados municipais e de propriedade** nos espaços latentes do modelo, evidenciando como as informações agregadas em nível municipal são utilizadas para estimar a produtividade em propriedades individuais.
-
-<img src="Resultados/espacos_latentes.png" width="600" alt="Resultados a nível de propriedade"/>
-
-A figura final ilustra a **distribuição dos espaços latentes a nível de propriedade**, indicando que o modelo consegue capturar padrões relevantes em cada propriedade, mesmo sem rótulos diretos, fornecendo estimativas precisas para a agricultura de precisão.
+<div align="center">
+    <img src="Resultados/resultado_municipio.png" width="600" alt="Resultado da previsão a nível municipal"/>
 </div>
+
+<p align="left">
+A figura acima apresenta a <strong>previsão de produtividade em nível municipal</strong>, mostrando como os valores estimados se distribuem entre os diferentes municípios analisados. Esse resultado serve como base para a transferência de conhecimento para o nível de propriedades.
+</p>
+
+<div align="center">
+    <img src="Resultados/resultado_propriedade.png" width="600" alt="Resultado da sobreposição entre os espaços latentes"/>
+</div>
+
+<p align="left">
+Esta figura mostra a <strong>sobreposição entre os dados municipais e de propriedade</strong> nos espaços latentes do modelo, evidenciando como as informações agregadas em nível municipal são utilizadas para estimar a produtividade em propriedades individuais.
+</p>
+
+<div align="center">
+    <img src="Resultados/espacos_latentes.png" width="600" alt="Resultados a nível de propriedade"/>
+</div>
+
+<p align="left">
+A figura final ilustra a <strong>distribuição dos espaços latentes a nível de propriedade</strong>, indicando que o modelo consegue capturar padrões relevantes em cada propriedade, mesmo sem rótulos diretos, fornecendo estimativas precisas para a agricultura de precisão.
+</p>
 
 ## Licença
 
