@@ -36,9 +36,10 @@ As *features* utilizadas são:
 ## Resultados
 
 <div align="center">
-  **Este texto ficará em negrito**  
   <img src="Resultados/resultado_municipio.png" width="600" alt="Resultado da previsão a nível municipal"/>
-  **Este texto ficará em negrito**
+</div>
+<div align="center">
+  **gdsfgsdfhg**
 </div>
 
 <p align="left">
