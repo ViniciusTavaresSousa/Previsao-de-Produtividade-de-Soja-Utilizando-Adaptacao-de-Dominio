@@ -34,18 +34,16 @@ As *features* utilizadas são:
 ### Extração a Nível de Propriedade
 
 ## Resultados
-
+<p align="center"><strong>Resultado da previsão a nível municipal</p>
 <div align="center">
   <img src="Resultados/resultado_municipio.png" width="600" alt="Resultado da previsão a nível municipal"/>
-</div>
-<div align="center">
-  **gdsfgsdfhg**
 </div>
 
 <p align="left">
 Os resultados obtidos em nível municipal indicaram um erro médio de aproximadamente 400 kg/ha entre o quantil mediano (𝑄50) previsto e a produtividade real observada. Esse valor sugere que o modelo apresentou boa capacidade de generalização e convergência durante o treinamento
 </p>
 
+<p align="center"><strong>Resultado da sobreposição entre os espaços latentes</p>
 <div align="center">
     <img src="Resultados/espacos_latentes.png" width="600" alt="Resultado da sobreposição entre os espaços latentes"/>
 </div>
@@ -54,6 +52,7 @@ Os resultados obtidos em nível municipal indicaram um erro médio de aproximada
 Os resultados indicam que a adaptação de domínio foi eficaz, pois o modelo conseguiu gerar vetores latentes invariantes entre os domínios municipal e de propriedade. Essa carac- terística permite que o modelo realize previsões em nível de propriedade com desempenho semelhante ao obtido em nível municipal.
 </p>
 
+<p align="center"><strong>Resultado da previsão a nível de propriedade</p>
 <div align="center">
     <img src="Resultados/resultado_propriedade.png" width="600" alt="Resultados a nível de propriedade"/>
 </div>
