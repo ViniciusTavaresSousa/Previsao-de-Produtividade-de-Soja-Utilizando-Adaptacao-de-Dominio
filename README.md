@@ -40,23 +40,23 @@ As *features* utilizadas são:
 </div>
 
 <p align="left">
-A figura acima apresenta a <strong>previsão de produtividade em nível municipal</strong>, mostrando como os valores estimados se distribuem entre os diferentes municípios analisados. Esse resultado serve como base para a transferência de conhecimento para o nível de propriedades.
+Os resultados obtidos em nível municipal indicaram um erro médio de aproximadamente 400 kg/ha entre o quantil mediano (𝑄50) previsto e a produtividade real observada. Esse valor sugere que o modelo apresentou boa capacidade de generalização e convergência durante o treinamento
 </p>
 
 <div align="center">
-    <img src="Resultados/resultado_propriedade.png" width="600" alt="Resultado da sobreposição entre os espaços latentes"/>
+    <img src="Resultados/espacos_latentes.png" width="600" alt="Resultado da sobreposição entre os espaços latentes"/>
 </div>
 
 <p align="left">
-Esta figura mostra a <strong>sobreposição entre os dados municipais e de propriedade</strong> nos espaços latentes do modelo, evidenciando como as informações agregadas em nível municipal são utilizadas para estimar a produtividade em propriedades individuais.
+Os resultados indicam que a adaptação de domínio foi eficaz, pois o modelo conseguiu gerar vetores latentes invariantes entre os domínios municipal e de propriedade. Essa carac- terística permite que o modelo realize previsões em nível de propriedade com desempenho semelhante ao obtido em nível municipal.
 </p>
 
 <div align="center">
-    <img src="Resultados/espacos_latentes.png" width="600" alt="Resultados a nível de propriedade"/>
+    <img src="Resultados/resultado_propriedade.png" width="600" alt="Resultados a nível de propriedade"/>
 </div>
 
 <p align="left">
-A figura final ilustra a <strong>distribuição dos espaços latentes a nível de propriedade</strong>, indicando que o modelo consegue capturar padrões relevantes em cada propriedade, mesmo sem rótulos diretos, fornecendo estimativas precisas para a agricultura de precisão.
+Das quatro amostras disponíveis, observa-se que o modelo realizou previsões consistentes da produtividade, apresentando um erro médio de aproximadamente 200 kg/ha entre o quantil mediano (𝑄50) e a produtividade real. Este desempenho é ainda superior ao observado nas previsões em nível municipal, evidenciando a eficácia do modelo.
 
 ## Licença
 
