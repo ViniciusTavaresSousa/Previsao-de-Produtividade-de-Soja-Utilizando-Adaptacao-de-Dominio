@@ -29,6 +29,8 @@ As *features* utilizadas são:
 * `Precipitação`                                   (quantidade média de precipitação registrada na área.)
 * `Radiação solar`                                 (quantidade de energia solar incidente sobre a área.)
 
+🔗 [Download dos `Assets` necessários para a extração das *features* no Google Drive](https://drive.google.com/drive/folders/1WTsv4biJ8nTMDHalD5_1xbZCB3uhsJ4K?usp=sharing)
+
 ## Resultados
 <p align="center"><strong>Resultado da previsão a nível municipal</p>
 <div align="center">
