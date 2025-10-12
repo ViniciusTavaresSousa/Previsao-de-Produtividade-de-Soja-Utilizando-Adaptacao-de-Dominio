@@ -42,24 +42,8 @@ As *features* utilizadas são:
 </div>
 
 <p align="left">
-Podemos observar o *shapefile* contornado em preto e a classificação do *MapBiomas* destacada em amarelo. As *features* são extraídas a partir da interseção entre o polígono do *shapefile* e a área correspondente identificada pelo *MapBiomas*.
+Podemos observar o <em>shapefile</em> contornado em preto e a classificação do <em>MapBiomas</em> destacada em amarelo. As <em>features</em> são extraídas a partir da interseção entre o polígono do <em>shapefile</em> e a área correspondente identificada pelo <em>MapBiomas</em>.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 🔗 [Download dos `Assets` necessários para a extração das *features* no Google Drive](https://drive.google.com/drive/folders/1WTsv4biJ8nTMDHalD5_1xbZCB3uhsJ4K?usp=sharing)
 
