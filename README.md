@@ -33,12 +33,12 @@ As *features* utilizadas são:
 
 <p align="center"><strong>Extração a nível municipal</p>
 <div align="center">
-  <img src="Resultados/resultado_municipio.png" width="600" alt="Resultado da previsão a nível municipal"/>
+  <img src="Extração das Features/extracao_municipio.png" width="600" alt="Extração a nível municipal"/>
 </div>
 
 <p align="center"><strong>Extração a nível de propriedade</p>
 <div align="center">
-    <img src="Resultados/espacos_latentes.png" width="600" alt="Resultado da sobreposição entre os espaços latentes"/>
+    <img src="Extração das Features/extracao_propriedade.png" width="600" alt="Extração a nível de propriedade"/>
 </div>
 
 <p align="left">
