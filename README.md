@@ -2,6 +2,14 @@
 
 # Previsão de Produtividade de Soja Utilizando Adaptação de Domínio
 
+----------
+
+[![python](https://img.shields.io/badge/python-3.12.11-green)]()
+[![tensorflow](https://img.shields.io/badge/tensorflow-2.19.0-orange)]()
+
+----------
+
+
 <div align="left">
 
 ## Introdução
