@@ -67,7 +67,7 @@ Podemos observar o <em>shapefile</em> contornado em preto e a classificação do
 </div>
 
 <p align="left">
-Os resultados obtidos em nível municipal indicaram um erro médio de aproximadamente 400 kg/ha entre o quantil mediano (𝑄50) previsto e a produtividade real observada. Esse valor sugere que o modelo apresentou boa capacidade de generalização e convergência durante o treinamento.
+Os resultados obtidos em nível municipal indicaram um MAE de 401,66 kg/ha entre o quantil mediano (𝑄50) previsto e a produtividade real observada. Esse valor sugere que o modelo apresentou boa capacidade de generalização e convergência durante o treinamento.
 </p>
 
 <p align="center"><strong>Resultado da sobreposição entre os espaços latentes</p>
@@ -85,7 +85,7 @@ Os resultados indicam que a adaptação de domínio foi eficaz, pois o modelo co
 </div>
 
 <p align="left">
-Das quatro amostras disponíveis, observa-se que o modelo realizou previsões consistentes da produtividade, apresentando um erro médio de aproximadamente 200 kg/ha entre o quantil mediano (𝑄50) e a produtividade real. Este desempenho é ainda superior ao observado nas previsões em nível municipal, evidenciando a eficácia do modelo.
+Das quatro amostras disponíveis, observa-se que o modelo realizou previsões consistentes da produtividade, apresentando um MAE de 206,1 kg/ha entre o quantil mediano (𝑄50) e a produtividade real. Este desempenho é ainda superior ao observado nas previsões em nível municipal, evidenciando a eficácia do modelo.
 
 
 ## Licença
