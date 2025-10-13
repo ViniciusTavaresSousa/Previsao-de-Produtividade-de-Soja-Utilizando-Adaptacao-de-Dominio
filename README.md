@@ -76,7 +76,7 @@ Os resultados obtidos em nível municipal indicaram um MAE de 401,66 kg/ha entre
 </div>
 
 <p align="left">
-Os resultados indicam que a adaptação de domínio foi eficaz, pois o modelo conseguiu gerar vetores latentes invariantes entre os domínios municipal e de propriedade. Essa carac- terística permite que o modelo realize previsões em nível de propriedade com desempenho semelhante ao obtido em nível municipal.
+Os resultados indicam que a adaptação de domínio foi eficaz, pois o modelo conseguiu gerar vetores latentes invariantes entre os domínios municipal e de propriedade. Essa característica permite que o modelo realize previsões em nível de propriedade com desempenho semelhante ao obtido em nível municipal.
 </p>
 
 <p align="center"><strong>Resultado da previsão a nível de propriedade</p>
